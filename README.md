@@ -45,7 +45,7 @@ occasional browser fetch/CORS quirks with the `file://` protocol.)
 
 ---
 
-## 3. Deploying it live (so you can link it on your resume)
+## 3. Deploying it live 
 
 **Backend → Render (free tier):**
 1. Push this folder to a GitHub repo.
@@ -70,16 +70,9 @@ putting on your resume next to the project bullet.
 
 ---
 
-## 4. Suggested resume bullet
 
-> Built and deployed a full-stack internal budget-approval application
-> (React, Flask, SQLite) with role-based approval workflows, REST APIs,
-> and a data-aggregation endpoint powering spend-by-department/category
-> dashboards.
 
----
-
-## 5. Easy extensions if you have extra time
+## 3. Easy extensions if you have extra time
 
 - Swap SQLite → PostgreSQL (closer to production/enterprise setups)
 - Add JWT-based login instead of the role toggle
