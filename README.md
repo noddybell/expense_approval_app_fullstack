@@ -45,7 +45,7 @@ occasional browser fetch/CORS quirks with the `file://` protocol.)
 
 ---
 
-## 3. Deploying it live (so you can link it on your resume)
+## 3. Deploying it live 
 
 **Backend → Render (free tier):**
 1. Push this folder to a GitHub repo.
