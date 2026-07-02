@@ -1,4 +1,5 @@
 Flask==3.0.3
 flask-cors==4.0.1
 
-
+pip install psycopg2-binary
+pip install gunicorn
