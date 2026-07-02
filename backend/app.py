@@ -22,7 +22,7 @@ from datetime import datetime
 
 DATABASE_URL = os.environ.get("DATABASE_URL")
 
-app = Flask(_name_)
+app = Flask(__name__)
 CORS(app)
 
 
